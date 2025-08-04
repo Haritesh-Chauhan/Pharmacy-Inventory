@@ -1,1 +1,2 @@
-# Pharmacy-Inventory
+# pharmassist
+Pharmacy Inventory management system
